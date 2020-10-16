@@ -1,0 +1,17 @@
+Conjunto de Datos 1 (C1): Clima Australia
+Archivo: weatherAUS.csv
+Use los atributos MinTemp, MaxTemp, RainToday.
+Use como atributo de clase RainTomorrow
+Cree su propio conjunto de test y train.
+Las filas que no tienen registrados estos atributos pueden ser borrados.
+
+
+Conjunto de Datos 2 (C2): Titanic
+Archivo: titanic_test.csv titanic_train.csv gender_submission.csv
+Use los atributos Sex, Age, Fare, Embarked.
+Use como atributo de clase Survived
+Las filas que no tienen registrados estos atributos pueden ser borrados.
+El atributo de clase del conjunto de prueba está en gender_submission.csv
+
+
+
